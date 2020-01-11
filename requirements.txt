@@ -1,0 +1,5 @@
+aioredis
+python-dotenv
+click
+aiodine==1.*
+pydantic
